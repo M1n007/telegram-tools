@@ -1,0 +1,8 @@
+telethon
+asyncio
+input
+smsactivateru
+names
+python-dotenv
+pytgcalls
+request
